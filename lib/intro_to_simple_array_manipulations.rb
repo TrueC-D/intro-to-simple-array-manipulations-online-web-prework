@@ -17,7 +17,7 @@ def using_pop(great_hits_of_the_nineties)
 end
 
 def pop_with_args(array)
-     @chars_arya_killed = array.pop(2)
+     array.pop(2)
    end
    
 end
