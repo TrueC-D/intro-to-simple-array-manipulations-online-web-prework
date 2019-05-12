@@ -17,7 +17,8 @@ def using_pop(great_hits_of_the_nineties)
 end
 
 def pop_with_args(array)
-     array.pop[-1, -2]
+     2.times do 
+       array.pop
    end
    
 end
