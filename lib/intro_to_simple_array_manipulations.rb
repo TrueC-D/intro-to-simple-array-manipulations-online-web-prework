@@ -5,8 +5,8 @@ def using_push(countries_in_western_africa, next_country)
   updated_aray = countries_in_western_africa.push(next_country)
 end
   
-def using_unshift(neighborhoods_in_northwest_brooklyn, new_neighborhod)
-   @updated_aray = neighborhoods_in_northwest_brooklyn.unshift(new_neighborhod)
+def using_unshift(array, new)
+   @updated_aray = array.unshift(new)
    
 end
 
