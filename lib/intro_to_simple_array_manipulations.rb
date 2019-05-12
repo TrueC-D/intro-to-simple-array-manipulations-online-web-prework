@@ -19,8 +19,8 @@ end
 def pop_with_args()
   @chars_arya_killed = []
   2.times do
-    array.
-
+    @chars_arya_killed << array.last
+    array.pop
 end
 
 def using_shift
