@@ -21,6 +21,7 @@ def pop_with_args(array)
      @chars_arya_killed << array.last
      array.pop
    end
+   @chars_arya_killed
 end
 
 def using_shift (array)
