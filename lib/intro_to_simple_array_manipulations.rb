@@ -25,8 +25,8 @@ def using_shift (array)
   @im_so_over_this_city = array.shift
 end
 
-def shift_with_args()
-  
+def shift_with_args(array, x=2)
+  array.shift(x)
 end
 
 def using_concat
