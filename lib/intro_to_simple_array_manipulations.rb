@@ -17,7 +17,9 @@ def using_pop(great_hits_of_the_nineties)
 end
 
 def pop_with_args()
-  
+  2.times do
+    array.
+
 end
 
 def using_shift
